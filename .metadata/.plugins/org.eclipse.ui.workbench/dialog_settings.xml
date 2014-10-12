@@ -4,12 +4,20 @@
 		<item value="1025" key="dialogWidth"/>
 		<item value="525" key="dialogHeight"/>
 		<list key="orderedProviders">
+			<item value="org.eclipse.ui.commands"/>
 		</list>
 		<list key="textArray">
+			<item value="git"/>
 		</list>
 		<list key="orderedElements">
+			<item value="com.aptana.git.ui.command.ignore"/>
 		</list>
 		<list key="textEntries">
+			<item value="1"/>
 		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+		<item value="353" key="DIALOG_X_ORIGIN"/>
 	</section>
 </section>
